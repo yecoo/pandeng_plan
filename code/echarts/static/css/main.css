@@ -1,0 +1,128 @@
+body {
+    background-color: #2d2d2d;
+}
+
+#title {
+    position: absolute;
+    left: 15%;
+    top: 1%;
+    width: 70%;
+    height: 5%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    color: goldenrod;
+    /* background-color: yellowgreen; */
+}
+
+#left-top {
+    position: absolute;
+    left: 1%;
+    top: 7%;
+    width: 48%;
+    height: 45%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    /* box-shadow: 2px 2px 5px dimgray; */
+    /* background-color: rgb(255, 255, 255); */
+}
+
+#left-bottom {
+    position: absolute;
+    left: 1%;
+    top: 53%;
+    width: 48%;
+    height: 45%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    /* box-shadow: 2px 2px 5px dimgray; */
+    /* background-color: rgb(255, 255, 255); */
+}
+
+#right-top {
+    position: absolute;
+    right: 1%;
+    top: 7%;
+    width: 48%;
+    height: 45%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    /* box-shadow: 2px 2px 5px dimgray; */
+    /* background-color: rgb(255, 255, 255); */
+}
+
+#right-bottom {
+    position: absolute;
+    right: 1%;
+    top: 53%;
+    width: 48%;
+    height: 45%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    /* box-shadow: 2px 2px 5px dimgray; */
+    /* background-color: rgb(255, 255, 255); */
+}
+
+#center {
+    position: absolute;
+    left: 5%;
+    top: 101%;
+    width: 90%;
+    height: 50%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    /* box-shadow: 2px 2px 5px dimgray; */
+    /* background-color: rgb(255, 255, 255); */
+}
+#center-bottom {
+    position: absolute;
+    left: 5%;
+    top: 152%;
+    width: 90%;
+    height: 50%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    /* box-shadow: 2px 2px 5px dimgray; */
+    /* background-color: rgb(255, 255, 255); */
+}
+
+#center-footer {
+    position: absolute;
+    left: 5%;
+    top: 204%;
+    width: 90%;
+    height: 50%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    /* box-shadow: 2px 2px 5px dimgray; */
+    /* background-color: rgb(255, 255, 255); */
+}
+
+#footer {
+    position: absolute;
+    left: 15%;
+    top: 256%;
+    width: 70%;
+    height: 8%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    color: lightyellow;
+    /* background-color: #3399CC; */
+}
