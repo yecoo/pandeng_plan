@@ -1,0 +1,74 @@
+@charset "utf-8";
+/*body背景*/
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center 0; 
+    background-size: cover; -webkit-background-size: cover;
+    -o-background-size: cover;
+    zoom: 1;
+
+
+
+}
+
+
+
+/*logo样式*/
+.logo{
+    text-align: center;
+    font-size: 50px;
+    /*border: solid 1px gray;*/
+}
+.logoimg{
+    display: inline-block;
+    padding-top: 20px;
+
+}
+.logotext{
+    display: block;
+    padding-bottom: 20px; 
+    color:white;
+}
+
+/*输入框盒子*/
+.inputBox{
+    /*border: solid 1px gray;*/
+    /*background-color: black;*/
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+/*输入框1用户名*/
+.inputText1{
+    margin-top: 60px;
+    padding: 20px 50px;
+    width: 200px;
+    height: 20px;
+    font-size: 20px;
+    
+}
+/*输入框2密码*/
+.inputText2{
+    padding: 20px 50px;
+    width: 200px;
+    height: 20px;
+    font-size: 20px;
+}
+
+/*登录按钮*/
+.inputBtn{
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    color:white;
+    background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
+    
+}
